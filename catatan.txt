@@ -1,0 +1,11 @@
+Beberapa ekstensi yang mempermudah dalam melakukan coding:
+1. Prettier - Code formatter
+    > Extension setting :
+    1. Prettier: Print Width = 240
+    2. Format on Save = ceklis
+    3. Default Formatter ganti ke Prettier
+
+2. Open in Browser
+
+---
+
